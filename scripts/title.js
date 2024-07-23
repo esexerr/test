@@ -2,14 +2,12 @@ document.addEventListener('DOMContentLoaded', function() {
     var titles = [
         "ㅤ",
         "@",
-        "@m",
-        "@m4",
-        "@m4d",
-        "@m4d3",
-        "@m4d3t",
-        "@m4d3th",
-        "@m4d3thi",
-        "@m4d3this",
+        "@r",
+        "@re",
+        "@res",
+        "@reso",
+        "@resor",
+        "@resort",
     ];
 
     var currentIndex = 0;
